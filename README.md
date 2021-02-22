@@ -53,7 +53,6 @@ hello@taylorgonz.com
 
 ## Licensing
 This project is licensed by : 
-\
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/) \
 click the badge for more info
