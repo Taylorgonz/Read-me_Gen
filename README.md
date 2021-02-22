@@ -28,9 +28,8 @@ Welcome to my read me generator. I've created a simple node.js application using
 Use to Generate a professional open source application read me quickly and easily
 
 
-```md
+[![read-me_video_screenshot](http://img.youtube.com/vi/vrtzpoWNvMU/0.jpg)](http://www.youtube.com/watch?v=vrtzpoWNvMU "read-me_video")
 
-```
 
 
 ## Credits
@@ -39,14 +38,18 @@ Credit to [Mike Fearnley](https://michaelfearnley.com/) and [Scott Byers](https:
 and the UNH Fullstack Coding Bootcamp
 
 ## Links 
-Here is the link to the deployed site: https://taylorgonz.github.io/Weather_Dashboard/
+
+[Video example](https://youtu.be/vrtzpoWNvMU)
+
 ## Contact
 
 if you want to contact me for any more questions here are my links!
 
 hello@taylorgonz.com
-<br>
+\
 [Website](http://www.taylorgonz.com)
+\
+[Linked in](https://www.linkedin.com/in/taylorgonz/)
 
 ## Licensing
 This project is licensed by : \
