@@ -1,5 +1,5 @@
 
-// TODO: Create a function to generate markdown for README
+// markdown function
 function generateMarkdown(data) {
 
   if (data.license == "MIT") {

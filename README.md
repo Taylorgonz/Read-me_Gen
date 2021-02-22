@@ -2,7 +2,7 @@
 
 # Description
 
-Welcome to my read me generator. I've created a simple node.js application using inquirer, that prompts the user for input to create a proffesional README file for their project.
+Welcome to my read me generator. I've created a simple node.js application using inquirer, that prompts the user for input to create a professional README file for their project.
 
 ## Table of Contents (Optional)
 
@@ -25,7 +25,7 @@ Welcome to my read me generator. I've created a simple node.js application using
 
 ## Usage 
 
-Use to Generate a proffesional open source application read me quickly and easily
+Use to Generate a professional open source application read me quickly and easily
 
 
 ```md
