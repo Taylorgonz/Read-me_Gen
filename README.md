@@ -39,7 +39,7 @@ and the UNH Fullstack Coding Bootcamp
 
 ## Links 
 
-[Video example](https://youtu.be/vrtzpoWNvMU)
+[Video walkthrough](https://youtu.be/vrtzpoWNvMU)
 
 ## Contact
 
